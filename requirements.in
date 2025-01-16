@@ -1,0 +1,11 @@
+mlflow
+scikit-learn==1.5.2
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+jupyter
+pre-commit
+shap>=0.40
+xgboost
