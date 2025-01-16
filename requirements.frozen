@@ -67,7 +67,7 @@ cycler==0.12.1
     # via matplotlib
 databricks-sdk==0.40.0
     # via mlflow-skinny
-debugpy==1.8.11
+debugpy==1.8.12
     # via ipykernel
 decorator==5.1.1
     # via ipython
@@ -377,7 +377,7 @@ pyzmq==26.2.0
     #   jupyter-client
     #   jupyter-console
     #   jupyter-server
-referencing==0.35.1
+referencing==0.36.0
     # via
     #   jsonschema
     #   jsonschema-specifications
@@ -487,6 +487,7 @@ typing-extensions==4.12.2
     #   ipython
     #   mistune
     #   opentelemetry-sdk
+    #   referencing
     #   sqlalchemy
 tzdata==2024.2
     # via pandas
